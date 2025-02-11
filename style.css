@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	background-image: url(bg.jpg);
+}
+
+#triangle {
+	text-align: center;
+	background-color: #B288C0;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+img {
+	width: 200px;
+}
+
+button {
+	background-color: white;
+}
